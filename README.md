@@ -11,6 +11,8 @@
 
 ![img](https://github.com/ekayuliaa11/luas-lingkaran/blob/master/flowchart%20segitiga.png?raw=true)
 
+# program
+
      #include <iostream>
     using namespace std;
     int main()
@@ -25,3 +27,6 @@
     cout<<"luas lingkaran adalah "<<luas;
     return 0;
     }
+
+# hasil program
+![img](https://github.com/ekayuliaa11/luas-lingkaran/blob/master/luas%20lingkaran.png?raw=true)
